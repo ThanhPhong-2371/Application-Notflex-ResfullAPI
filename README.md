@@ -1,0 +1,1 @@
+This is a web-based application version of the Notflex movie streaming site that I developed, and I also created an application version built using the .Net (C#) Backend and Fontend (flutter) ResfullAPI.
